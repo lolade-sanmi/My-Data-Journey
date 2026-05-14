@@ -1,0 +1,9 @@
+CustomerID,Name,Gender,OrderDate,AmountSpent,Country
+1001,John Doe,Male,2026-01-15,15000,Nigeria
+1002,Amina Buba,Female,01/16/2026,22000,Nigeria
+1003,Peter Parker,Male,2026-01-17,5000,Ghana
+1004,Chioma Nnaji,Female,2026-01-18,45000,Nigeria
+1005,Kwame Mensah,Male,2026/01/19,30000,Ghana
+1006,Funmi Adebayo,Female,2026-01-20,12000,Nigeria
+1007,Sani Umar,Male,2026-01-21,0,Kenya
+1008,Jane Smith,Female,2026-01-22,85000,Kenya
